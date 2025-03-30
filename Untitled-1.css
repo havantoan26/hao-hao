@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.menu {
+  height: 64px;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo-img {
+  height: 46px;
+}
+.menu-search {
+  width: 650px;
+  height: 36px;
+  margin-left: 50px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #fff;
+}
